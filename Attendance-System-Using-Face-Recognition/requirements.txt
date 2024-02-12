@@ -23,7 +23,7 @@ numpy==1.19.3
 #opencv-python
 #pandas==1.1.5
 pathspec==0.8.1
-Pillow==8.1.1
+Pillow==10.2.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.4
